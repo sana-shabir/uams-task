@@ -1,0 +1,7 @@
+C:\Users\HS TRADER\Desktop\oop lab sana\uams\uams\bin\Debug\uams.exe.config
+C:\Users\HS TRADER\Desktop\oop lab sana\uams\uams\bin\Debug\uams.exe
+C:\Users\HS TRADER\Desktop\oop lab sana\uams\uams\bin\Debug\uams.pdb
+C:\Users\HS TRADER\Desktop\oop lab sana\uams\uams\obj\Debug\uams.csproj.AssemblyReference.cache
+C:\Users\HS TRADER\Desktop\oop lab sana\uams\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
+C:\Users\HS TRADER\Desktop\oop lab sana\uams\uams\obj\Debug\uams.exe
+C:\Users\HS TRADER\Desktop\oop lab sana\uams\uams\obj\Debug\uams.pdb
